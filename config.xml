@@ -6,5 +6,5 @@
     
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="cordova-plugin-camera-preview" src="https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git" />
+    <plugin name="cordova-plugin-camera-preview" />
 </widget>
